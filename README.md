@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I am **Prashant Adhikari**, a passionate learner and Full Stack Developer who loves building things with **tech, code, and creativity** ✨  
+I am **Prashant Adhikari**, a passionate learner and Full Stack Developer from Nepal, who loves building things with **tech, code, and creativity** ✨  
 
 ## 💫 About Me:
 🔭 I’m currently working on myself.<br>  
