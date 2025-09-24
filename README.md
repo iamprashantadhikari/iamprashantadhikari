@@ -1,9 +1,7 @@
 ## Hi there 👋  
 I am **Prashant Adhikari**, a passionate learner and Full Stack Developer who loves building things with **tech, code, and creativity** ✨  
 
-<br/>
-
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on myself.<br>  
 🤝 I’m looking to collaborate on **open-source projects** related to web apps, APIs, and AI tools.<br>  
 💬 Ask me about tech, I am happy to help.<br>  
@@ -15,7 +13,7 @@ I am **Prashant Adhikari**, a passionate learner and Full Stack Developer who lo
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamprashantadhikari) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamprashantadh)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,7 +25,7 @@ I am **Prashant Adhikari**, a passionate learner and Full Stack Developer who lo
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   
